@@ -14,7 +14,7 @@
 ![이미지설명](이미지URL)
 간단한 예시:
 
-# 환영합니다
+# 환영합니다 👋
 
 ## 내 웹사이트입니다
 
@@ -26,3 +26,5 @@
 - 새로운 기술
 
 [GitHub 방문하기](https://github.com/chimeslack)
+(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/[chimeslack])
+(https://github-readme-stats.vercel.app/api?username=[chimeslack]&show_icons=true&theme=radical)
