@@ -25,4 +25,4 @@
 - AWS 학습
 - 새로운 기술
 
-[GitHub 방문하기](https://github.com/사용자명)
+[GitHub 방문하기](https://github.com/doooni)
